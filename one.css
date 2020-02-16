@@ -1,0 +1,40 @@
+@CHARSET "UTF-8";
+.div1{
+	border: 1px solid black;
+	width: 400px;
+	height: 450px;
+}
+.div1 ul{
+	/*border: 1px solid black;*/
+	padding-left: 0px;
+	
+}
+.div1 li{
+	list-style-type:none;
+	float: left;
+	/*border: 1px solid black;*/
+	width: 105px;
+	height: 90px;
+	margin-left: 20px;
+	
+}
+.div1 img{
+	width: 60px;
+	height: 60px;
+	margin-left: 20px;
+}
+.span1{
+	margin-left: 220px;
+	
+}
+a:LINK {
+	text-decoration: none;
+}
+a:HOVER {
+	text-decoration: underline;
+}
+#img1{
+	width: 20px;
+	height: 20px;
+	margin-left: 0px;
+}
